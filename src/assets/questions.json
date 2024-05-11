@@ -1,0 +1,32 @@
+[
+  { "q": "Les persones acostumades a beure s’emborratxen menys", "a": 0 },
+  {
+    "q": " Beure grans quantitats d’alcohol en poc temps pot provocar un coma",
+    "a": 1
+  },
+  {
+    "q": " La barreja de diferents tipus d’alcohol produeix que una persona s’emborratxi més ràpid",
+    "a": 0
+  },
+  {
+    "q": " Vomitar, dutxar-se amb aigua freda o prendre cafè ajuda a baixar la borratxera",
+    "a": 0
+  },
+  { "q": " És recomanable menjar abans de beure alcohol", "a": 1 },
+  {
+    "q": " Beure solament els caps de setmana també pot produir danys i alcoholisme",
+    "a": 1
+  },
+  {
+    "q": " És impossible divertir-se quan surts de festa si no beus alcohol",
+    "a": 0
+  },
+  { "q": " L’alcohol produeix el mateix efecte en totes les persones", "a": 0 },
+  { "q": " Prendre tres cerveses no impedeix conduir", "a": 0 },
+  { "q": " L’alcohol millora la capacitat sexual", "a": 0 },
+  {
+    "q": " En algunes persones, l’alcohol facilita que apareguin conductes violentes",
+    "a": 1
+  },
+  { "q": "L’alcohol ajuda a oblidar problemes", "a": 0 }
+]
